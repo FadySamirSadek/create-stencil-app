@@ -1,0 +1,22 @@
+{
+  "name": "create-stencil-app",
+  "version": "0.0.1",
+  "description": "A stencil project generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FadySamirSadek/create-stencil-app.git"
+  },
+  "keywords": [
+    "stencil"
+  ],
+  "author": "Fady Samir Sadek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FadySamirSadek/create-stencil-app/issues"
+  },
+  "homepage": "https://github.com/FadySamirSadek/create-stencil-app#readme"
+}
