@@ -4,6 +4,7 @@
   "description": "A stencil project generator",
   "main": "index.js",
   "scripts": {
+    "create": "node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/FadySamirSadek/create-stencil-app/issues"
   },
-  "homepage": "https://github.com/FadySamirSadek/create-stencil-app#readme"
+  "homepage": "https://github.com/FadySamirSadek/create-stencil-app#readme",
+  "dependencies": {
+    "yosay": "^2.0.2"
+  }
 }
